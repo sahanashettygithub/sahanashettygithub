@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahanashettygithub
+- 👋 Hi, I’m @sahanashetty
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning information technology(btech)
 - 💞️ I’m looking to collaborate on ...
