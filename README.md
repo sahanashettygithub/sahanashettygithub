@@ -1,6 +1,6 @@
 **👋 hey, I'm Sahana Shetty**
 
-**AI/ML · full-stack ·System Design· Bengaluru**
+**AI/ML · full-stack · System Design · Bengaluru**
 
 ---
 
