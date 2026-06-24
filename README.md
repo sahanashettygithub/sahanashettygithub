@@ -1,4 +1,4 @@
-**👋 hey, I'm Sahana Shetty**
+**##👋 Hey, I'm Sahana Shetty**
 
 **AI/ML · full-stack · System Design · Bengaluru**
 
